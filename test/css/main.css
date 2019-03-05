@@ -1,0 +1,14 @@
+.contain{
+    margin: 5px 100px;
+}
+.table  .btn{
+    width: 100px;
+    padding:2px;
+}
+body{
+    padding-top: 5px;
+}
+.btn_cus{
+    float: right;
+    margin: 5px 0px;
+}
